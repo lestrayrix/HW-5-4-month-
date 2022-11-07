@@ -1,0 +1,11 @@
+.noList{
+    list-style: none;
+}
+.Centr{
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+}
+.red{
+    color: red;
+}
